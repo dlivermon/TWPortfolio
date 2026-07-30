@@ -1,1 +1,3 @@
-# Technical Writing Portfolio
+# About Me
+Hi! I'm Des Livermon. I am a technical writing professional in Seattle, WA. 
+I have 13+ years of experience creating customer-facing technical documentation and onboarding guides for cloud-based SaaS platforms (ServiceNow, Dutchie, Genesys). I am experienced in docs-as-code workflows using GitHub and GitLab, cross-functional collaboration with engineering and product management teams, and maintaining documentation quality standards and style guides. Skilled in DITA/XML authoring, information architecture, and reviewing technical content for accuracy, clarity, and consistency across global audiences. Passionate about end-user success and accessibility.
